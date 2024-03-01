@@ -1,0 +1,46 @@
+.tour_content img{
+    width: 100%;
+}
+.tour_info{
+    width: 100%;
+    padding: 15px 15px 20px 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.tour_reviews{
+    width: 100%;
+    padding: 15px 15px 20px 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    border-radius: 10px;
+}
+
+.tour_info h2{
+    font-size: 25px;
+}
+
+.tour_extra-details{
+padding: 15px 0px;
+display: flex;
+}
+
+.tour_extra-details span{
+    padding-right: 20px;
+    width: 150px;
+    display: block;
+    display: flex;
+    padding-bottom: 10px;
+}
+.tour_extra-details span i{
+ padding-right: 10px;
+}
+.turo_discriptin h4{
+font-size: 22px;
+}
+.turo_discriptin p{
+font-size: 18px;
+}
+
+.review_item img{
+    width:100px;
+}
